@@ -9,6 +9,7 @@
 
 ### asp.net
 - [Viewstate](https://github.com/gami03/TIL/blob/main/asp.net/Viewstate.md)
+- [ADO.NET](https://github.com/gami03/TIL/blob/main/asp.net/ADO.Net.md)
 
 ### c#
 - [CLR (Common Language Runtime)](https://github.com/gami03/TIL/blob/main/c%23/CLR%20(Common%20Language%20Runtime).md)
