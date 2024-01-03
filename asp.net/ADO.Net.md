@@ -82,3 +82,9 @@ C# 에서 ADO.Net 을 사용하는 첫번째 단계는 모든 ADO.NET 클래스�
 <br> OLE DB 공급자를 제공 하지 않는 데이터 원본 ( 예를들어 PostageSQL 등등 ) 이라면 ODBC .Net 공급자를 사용 하면 됩니다. ODBC .Net 데이터 공급자 (Data Provider) 는 VS.Net 과는 별개로 다운 받아야 합니다.
 
 ![image](https://github.com/gami03/TIL/assets/128332485/68ad5d8f-6dc1-450e-a8f7-02ac3e7b2373)
+
+![image](https://github.com/gami03/TIL/assets/128332485/c97fad21-f1fc-4bc8-8f07-7ce35df9e28d)
+
+ADO.NET에는 또한 아래와 같은 공통 인터페이스와 추상 클래스가 있다.
+
+![image](https://github.com/gami03/TIL/assets/128332485/18f6c435-13de-4495-88a4-c6edb9deded3)
