@@ -49,7 +49,7 @@ ADO.Net 에서 개체들을 크게 소비자 (Consumer) 개체들과 .Net 데이
   <br> 이 개체는 응용 프로그램 안에서 하나의 단위로 참조되는 관련된 테이블들의 집합을 대표 합니다.
   <br>예를들어 Customers, Orders, Products 의 모든 고객들과 그들이 주문한 제품들은 하나의 DataSet 에 담기는 것이 가능 하며 이 개체를 이용하면 원하는 데이터를 각 테이블로부터 빨리 가져와 서버와 연결이 끊어진 상태에서 데이터를 변경 하고,
   다시 한번의 명령으로 변경된 것들을 데이터 베이스 서버에 저장 할 수 있습니다.
-  <br>한마디로 데이터 테이블 컬렉션, 관계 및 제약 조건으로 구성되어 있는 데이터의 집합입니다. DataSet안에는 데이터 테이틀 컬렉션(DataTableCollection)이 있어서 DataTable들을 가질 수 있습니다.
+  <br>한마디로 데이터 테이블 컬렉션, 관계 및 제약 조건으로 구성되어 있는 데이터의 집합입니다. DataSet안에는 데이터 테이블 컬렉션(DataTableCollection)이 있어서 DataTable들을 가질 수 있습니다.
 
 - DataTable 개체 :
   <br> 이 개체는 DataSet 안의 하나의 테이블을 나타 냅니다 . 각각의 Customers, Orders, Products 등
