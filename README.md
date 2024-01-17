@@ -13,3 +13,4 @@
 
 ### c#
 - [CLR (Common Language Runtime)](https://github.com/gami03/TIL/blob/main/c%23/CLR%20(Common%20Language%20Runtime).md)
+- [접근제한자](https://github.com/gami03/TIL/blob/main/c%23/%EC%A0%91%EA%B7%BC%EC%A0%9C%ED%95%9C%EC%9E%90.md)
